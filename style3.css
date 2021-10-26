@@ -1,0 +1,138 @@
+
+  
+    @font-face {
+      font-family:"one";
+      src: url(font/Cosmos-square-One.otf);}
+      
+      @font-face {
+  font-family:"two";
+  src: url(font/Cosmos-square-Two.otf);}
+
+  @font-face {
+      font-family:"three";
+      src: url(font/Cosmos-square-Three.otf);}
+
+@font-face {
+  font-family:"Four";
+  src: url(font/Cosmos-square-Four.otf);}
+  
+
+@font-face {
+  font-family:"Five";
+  src: url(font/Cosmos-square-Five.otf);}
+  
+@font-face {
+  font-family:"Six";
+  src: url(font/Cosmos-square-Six.otf);}
+
+@font-face {
+  font-family:"Seven";
+  src: url(font/Cosmos-square-Seven.otf);}
+
+@font-face {
+  font-family:"Eight";
+  src: url(font/Cosmos-square-Eight.otf);}
+
+@font-face {
+  font-family:"Nine";
+  src: url(font/Cosmos-square-Nine.otf);}
+
+@font-face {
+  font-family:"Ten";
+  src: url(font/Cosmos-square-Ten.otf);}
+  
+  @font-face {
+    font-family:"korea";
+    src: url(font/SM3중고딕03.otf);}
+
+
+  body {
+  background-color:black;
+  color: #000;
+}
+
+
+
+.inputClass {color: white;
+  background-color: transparent;
+  color: white;
+  border: none;
+  
+  outline-style: none;
+
+}
+
+label {color: white;
+  font-weight: bold;
+  
+}
+
+option {color: white;
+  background-color: #fff;
+  color: white;
+}
+
+.slider {
+  
+  -webkit-appearance: none;
+  height: 2px;
+
+  background-color: white;
+  outline: none;
+  -webkit-transition: 0.2s;
+
+}
+
+.slider:hover {
+  opacity: 1;
+  
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: white;
+  border: white;
+  cursor: pointer;
+ 
+}
+
+.calall{float: left;
+   }
+  
+  .line{  border-bottom: 1px solid white;
+          border-width: 100%;
+          position: absolute; top: 100px;}
+.col{padding-top:3%; float: left;
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 30px;
+  top: -6px;
+  left: 10%;
+  border-right: 1px solid white;
+  
+  }
+  
+
+.col2{float: right;
+    margin-left: 15px;
+position:absolute;
+top: 12px;
+padding: 6px;
+padding-right: 150px;
+left: 20%;
+border-right: 1px solid white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+.textbox{ word-break:pre-line; width: auto; position: absolute; top:15%; left: 3.5%; padding: none; }
+
+.text{color:white;
+      position: fixed; left: 30.7%;
+    font-size: 30px;
+    font-family: "korea";}
+
+.font{font-family: cosmos1;}
+
