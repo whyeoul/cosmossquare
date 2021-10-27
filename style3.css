@@ -2,48 +2,48 @@
   
     @font-face {
       font-family:"one";
-      src: url(font/Cosmos-square-One.otf);}
+      src: url("Cosmos-square-One.otf");}
       
       @font-face {
   font-family:"two";
-  src: url(font/Cosmos-square-Two.otf);}
+  src: url("Cosmos-square-Two.otf");}
 
   @font-face {
       font-family:"three";
-      src: url(font/Cosmos-square-Three.otf);}
+      src: url ("Cosmos-square-Three.otf");}
 
 @font-face {
   font-family:"Four";
-  src: url(font/Cosmos-square-Four.otf);}
+  src: url("Cosmos-square-Four.otf");}
   
 
 @font-face {
   font-family:"Five";
-  src: url(font/Cosmos-square-Five.otf);}
+  src: url("Cosmos-square-Five.otf");}
   
 @font-face {
   font-family:"Six";
-  src: url(font/Cosmos-square-Six.otf);}
+  src: url("Cosmos-square-Six.otf");}
 
 @font-face {
   font-family:"Seven";
-  src: url(font/Cosmos-square-Seven.otf);}
+  src: url("Cosmos-square-Seven.otf");}
 
 @font-face {
   font-family:"Eight";
-  src: url(font/Cosmos-square-Eight.otf);}
+  src: url("Cosmos-square-Eight.otf");}
 
 @font-face {
   font-family:"Nine";
-  src: url(font/Cosmos-square-Nine.otf);}
+  src: url("osmos-square-Nine.otf");}
 
 @font-face {
   font-family:"Ten";
-  src: url(font/Cosmos-square-Ten.otf);}
+  src: url("Cosmos-square-Ten.otf");}
   
   @font-face {
     font-family:"korea";
-    src: url(font/SM3중고딕03.otf);}
+    src: url("SM3중고딕03.otf");}
 
 
   body {
